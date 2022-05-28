@@ -23,6 +23,7 @@ body { background: #000; }
     0.025em 0.05em 0 rgba(0, 0, 255, 0.75);
   animation: glitch 2000ms infinite;
 }
+
 h1::after {
   content: "|";
   margin-left: 5px;
