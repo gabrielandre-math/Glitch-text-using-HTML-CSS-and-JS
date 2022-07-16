@@ -1,5 +1,5 @@
 # Glitch-text-using-HTML-CSS-and-JS
-Just a demo using typewriter effect
+Just a demo using typewriter effect.
   
  Codepen link --> https://codepen.io/ANDREGABRIELS/pen/oNpevLw
  
